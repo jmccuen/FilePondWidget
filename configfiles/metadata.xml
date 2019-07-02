@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="8.0.0" name="FilePondWidget" packageVersion="1.0.71" vendor="Thingworx labs"> 
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <Widgets>
+        <Widget name="filepondwidget">
+            <UIResources>
+                <FileResource description="" file="filepondwidget.ide.js" isDevelopment="true" isRuntime="false" type="JS"/>
+                <FileResource description="" file="filepondwidget.ide.css" isDevelopment="true" isRuntime="false" type="CSS"/>
+                <FileResource description="" file="filepondwidget.runtime.js" isDevelopment="false" isRuntime="true" type="JS"/>
+                <FileResource description="" file="filepondwidget.runtime.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+                <FileResource description="" file="filepond.min.js" isDevelopment="false" isRuntime="true" type="JS"/>
+                <FileResource description="" file="filepond.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+                <FileResource description="" file="filepond-plugin-file-metadata.js" isDevelopment="false" isRuntime="true" type="JS"/>
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
